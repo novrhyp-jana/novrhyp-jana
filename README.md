@@ -1,87 +1,149 @@
 <div align="center">
 
-# Hey, I'm Janarthanan 👋
+# Hi, I'm Janarthanan M 👋
 
-### Cybersecurity · AI · Software Engineering
+### Cybersecurity · Artificial Intelligence · Software Engineering
 
-*Building practical systems, experimenting with intelligent software, and learning by shipping.*
+**Building intelligent systems. Exploring security. Turning ideas into working technology.**
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=novrhyp-jana\&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/novrhyp-jana?style=for-the-badge\&logo=github)
+![Followers](https://img.shields.io/github/followers/novrhyp-jana?style=for-the-badge\&logo=github)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Janarthanan M
-focus:
-  - Cybersecurity
+
+interests:
   - Artificial Intelligence
+  - Machine Learning
+  - Cybersecurity
   - Software Engineering
+  - Intelligent Systems
 
 currently_building:
-  - NaturePin
+  - GeoDiscover
   - SYNAPSE
 
-philosophy: "Build. Break. Learn. Improve."
+currently_exploring:
+  - Neural Networks
+  - AI Training
+  - Autonomous Agents
+  - Local LLMs
+  - Security Engineering
+
+philosophy: "Build. Break. Understand. Improve."
 ```
 
-I'm a Computer Science student interested in building systems that combine **software, AI and security**.
+I'm a Computer Science & Engineering student specializing in **Cybersecurity**, with a strong interest in **AI, intelligent systems and software engineering**.
 
-I enjoy taking ideas beyond prototypes — designing the architecture, building the backend, experimenting with AI, and turning them into usable products.
+I enjoy understanding how systems work beneath the surface — from designing software architectures to experimenting with machine learning, neural networks, autonomous agents and security.
 
----
+My goal isn't just to make things run.
 
-## 🚀 Currently Building
-
-### 🌍 NaturePin
-
-**Geospatial community discovery platform**
-
-A location-based platform for discovering and reporting real-world environmental events, places and community observations.
-
-`Android` `Java` `Firebase` `MapLibre` `Room`
-
-> Repository publishing soon.
-
-<br>
-
-### 🧠 SYNAPSE
-
-**Autonomous Trading Agent Architecture**
-
-An experimental modular system exploring autonomous decision-making, portfolio management and AI-assisted options trading.
-
-`Python` `Docker` `PostgreSQL` `Redis` `LLMs`
-
-> Currently under development.
+**I want to understand why they work.**
 
 ---
 
-## 🧪 Projects & Experiments
+# 🚀 Currently Building
 
-This profile is continuously evolving.
+## 🌍 GeoDiscover
 
-I'm currently cleaning and documenting projects involving:
+### Connecting people with the world around them.
 
-* 🛡️ Cybersecurity
-* 🤖 AI & Local LLMs
-* 📱 Android Development
-* ☕ Java Applications
-* 🌐 Backend Systems
-* 🧠 Intelligent Agents
-* 🔬 Experimental Software
+GeoDiscover explores how technology can create a more meaningful connection between **people, communities and their surroundings**.
 
-More projects will appear here as they're ready to ship.
+The project focuses on making everyday discovery more accessible, contextual and useful.
+
+### 🎯 Expected Impact
+
+* Encourage meaningful community participation
+* Improve access to useful local information
+* Create stronger interaction between people and their surroundings
+* Transform digital discovery into measurable real-world value
+
+> **Currently under active development.**
+
+*Further technical details will be released as the project evolves.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 SYNAPSE
+
+### Experimental Autonomous AI Decision System
+
+SYNAPSE is an experimental architecture exploring how **AI-driven agents can observe information, reason about it, make decisions and continuously improve from previous outcomes.**
+
+The project is being designed around a modular architecture where independent components can handle **decision-making, portfolio state, execution, scheduling and future learning pipelines.**
+
+### 🔬 Areas Being Explored
+
+`Artificial Intelligence` · `Machine Learning` · `Neural Networks`
+
+`AI Training` · `Autonomous Agents` · `LLMs`
+
+`Decision Systems` · `Data Pipelines` · `Model Evaluation`
+
+`Reinforcement Learning Concepts` · `Continuous Learning`
+
+### 🧠 Long-Term Direction
+
+The goal is to experiment with systems capable of progressing from:
+
+**Data → Analysis → Reasoning → Decision → Outcome → Learning**
+
+Instead of relying entirely on predefined rules, future iterations are intended to explore **machine-learning models and neural-network-based decision systems trained using historical and generated data.**
+
+This opens possibilities for:
+
+* Adaptive decision-making
+* Pattern recognition across large datasets
+* Outcome-based model improvement
+* AI-assisted risk evaluation
+* Automated strategy analysis
+* Multi-agent experimentation
+* Continuous model evaluation and retraining
+
+### ⚙️ Current Architecture
+
+`Python` · `Docker` · `PostgreSQL` · `Redis`
+
+`Event-Driven Architecture` · `REST APIs`
+
+`Local LLM Infrastructure` · `Modular Services`
+
+> **Research & development project — architecture and capabilities are continuously evolving.**
+
+---
+
+# 🧪 What I'm Exploring
+
+Beyond my main projects, I experiment with:
+
+**🤖 Artificial Intelligence**
+Machine learning, neural networks, LLMs and autonomous systems.
+
+**🛡️ Cybersecurity**
+Security concepts, network security and secure system design.
+
+**⚙️ Software Engineering**
+Backend systems, modular architectures, APIs and distributed components.
+
+**📱 Application Development**
+Building practical applications that connect software with real-world problems.
+
+**🧠 Local AI**
+Running and experimenting with AI models locally using containerized and offline infrastructure.
+
+---
+
+# 🛠️ Technology Stack
 
 <div align="center">
 
@@ -93,7 +155,7 @@ More projects will appear here as they're ready to ship.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Development
+### Development & Infrastructure
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
@@ -102,23 +164,24 @@ More projects will appear here as they're ready to ship.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-### Exploring
+### AI & Systems
 
-![AI](https://img.shields.io/badge/AI_&_LLMs-111111?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-111111?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge\&logo=hackthebox\&logoColor=green)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=novrhyp-jana&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=novrhyp-jana&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novrhyp-jana&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novrhyp-jana&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -126,30 +189,38 @@ More projects will appear here as they're ready to ship.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=novrhyp-jana&theme=github-compact&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=novrhyp-jana&theme=github-compact&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## 🐍 Contributions
+# 📌 More Coming Soon
 
-<div align="center">
+This profile is being built alongside my projects.
 
-![Snake animation](https://raw.githubusercontent.com/novrhyp-jana/novrhyp-jana/output/github-contribution-grid-snake-dark.svg)
+Upcoming repositories will include work across:
 
-</div>
+`AI` · `Cybersecurity` · `Android` · `Java`
+
+`Machine Learning` · `Backend Systems` · `Experimental Software`
+
+Projects will be published here as they reach a stage where they're worth documenting and sharing.
 
 ---
 
 <div align="center">
 
-### Let's Build Something Interesting.
+### Build things that make you ask better questions.
 
-**AI · Security · Software · Experimentation**
+**AI × Security × Software Engineering**
 
 <br>
 
-`novrhyp-jana`
+![GitHub](https://img.shields.io/badge/GitHub-novrhyp--jana-181717?style=for-the-badge\&logo=github)
+
+<br><br>
+
+*"The interesting part isn't making the system work — it's understanding what makes it work."*
 
 </div>
