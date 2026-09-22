@@ -1,226 +1,88 @@
 <div align="center">
 
-# Hi, I'm Janarthanan M 👋
+<p><code>INTELLIGENCE / SECURITY / REAL-WORLD IMPACT</code></p>
 
-### Cybersecurity · Artificial Intelligence · Software Engineering
+# Janarthanan M
 
-**Building intelligent systems. Exploring security. Turning ideas into working technology.**
+### Building systems for a smarter, greener tomorrow.
+
+Computer Science student specialising in Cyber Security  
+SRM Institute of Science and Technology · Chennai, India
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=novrhyp-jana\&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/novrhyp-jana?style=for-the-badge\&logo=github)
+![Focus](https://img.shields.io/badge/FOCUS-AI_%26_SECURITY-39FF88?style=flat-square&labelColor=101C16)
+![Approach](https://img.shields.io/badge/APPROACH-BUILD_%C2%B7_TEST_%C2%B7_REFINE-9AFFC7?style=flat-square&labelColor=101C16)
+
+**[Explore my work](#02--selected-work) · [Technical toolkit](#03--technical-toolkit) · [Current direction](#04--current-direction)**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / About
 
-```yaml
-name: Janarthanan M
+I build software to understand how systems work—and how they can work better for people.
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cybersecurity
-  - Software Engineering
-  - Intelligent Systems
+My interests span **AI systems, cybersecurity, and practical software engineering**. I enjoy turning ideas into working prototypes, connecting their components, and understanding the decisions behind them.
 
-currently_building:
-  - GeoDiscover
-  - SYNAPSE
+I’m especially interested in technology that strengthens communities, supports a healthier environment, and makes intelligent tools more accessible.
 
-currently_exploring:
-  - Neural Networks
-  - AI Training
-  - Autonomous Agents
-  - Local LLMs
-  - Security Engineering
+## 02 / Selected work
 
-philosophy: "Build. Break. Understand. Improve."
-```
+### GeoDiscover
+**Community discovery with real-world purpose.**
 
-I'm a Computer Science & Engineering student specializing in **Cybersecurity**, with a strong interest in **AI, intelligent systems and software engineering**.
+A project exploring how technology can help people discover and connect with the world around them. Its direction centres on local knowledge, community participation, and positive environmental and social impact.
 
-I enjoy understanding how systems work beneath the surface — from designing software architectures to experimenting with machine learning, neural networks, autonomous agents and security.
+`Community technology` `Discovery` `Environmental impact`
 
-My goal isn't just to make things run.
-
-**I want to understand why they work.**
-
----
-
-# 🚀 Currently Building
-
-## 🌍 GeoDiscover
-
-### Connecting people with the world around them.
-
-GeoDiscover explores how technology can create a more meaningful connection between **people, communities and their surroundings**.
-
-The project focuses on making everyday discovery more accessible, contextual and useful.
-
-### 🎯 Expected Impact
-
-* Encourage meaningful community participation
-* Improve access to useful local information
-* Create stronger interaction between people and their surroundings
-* Transform digital discovery into measurable real-world value
-
-> **Currently under active development.**
-
-*Further technical details will be released as the project evolves.*
-
----
-
-## 🧠 SYNAPSE
-
-### Experimental Autonomous AI Decision System
-
-SYNAPSE is an experimental architecture exploring how **AI-driven agents can observe information, reason about it, make decisions and continuously improve from previous outcomes.**
-
-The project is being designed around a modular architecture where independent components can handle **decision-making, portfolio state, execution, scheduling and future learning pipelines.**
-
-### 🔬 Areas Being Explored
-
-`Artificial Intelligence` · `Machine Learning` · `Neural Networks`
-
-`AI Training` · `Autonomous Agents` · `LLMs`
-
-`Decision Systems` · `Data Pipelines` · `Model Evaluation`
-
-`Reinforcement Learning Concepts` · `Continuous Learning`
-
-### 🧠 Long-Term Direction
-
-The goal is to experiment with systems capable of progressing from:
-
-**Data → Analysis → Reasoning → Decision → Outcome → Learning**
-
-Instead of relying entirely on predefined rules, future iterations are intended to explore **machine-learning models and neural-network-based decision systems trained using historical and generated data.**
-
-This opens possibilities for:
-
-* Adaptive decision-making
-* Pattern recognition across large datasets
-* Outcome-based model improvement
-* AI-assisted risk evaluation
-* Automated strategy analysis
-* Multi-agent experimentation
-* Continuous model evaluation and retraining
-
-### ⚙️ Current Architecture
-
-`Python` · `Docker` · `PostgreSQL` · `Redis`
-
-`Event-Driven Architecture` · `REST APIs`
-
-`Local LLM Infrastructure` · `Modular Services`
-
-> **Research & development project — architecture and capabilities are continuously evolving.**
-
----
-
-# 🧪 What I'm Exploring
-
-Beyond my main projects, I experiment with:
-
-**🤖 Artificial Intelligence**
-Machine learning, neural networks, LLMs and autonomous systems.
-
-**🛡️ Cybersecurity**
-Security concepts, network security and secure system design.
-
-**⚙️ Software Engineering**
-Backend systems, modular architectures, APIs and distributed components.
-
-**📱 Application Development**
-Building practical applications that connect software with real-world problems.
-
-**🧠 Local AI**
-Running and experimenting with AI models locally using containerized and offline infrastructure.
-
----
-
-# 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Development & Infrastructure
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-### AI & Systems
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-111111?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge\&logo=hackthebox\&logoColor=green)
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=novrhyp-jana&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novrhyp-jana&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+**Stage:** Active development. Technical details will be shared as the project becomes ready for publication.
 
 <br>
 
-<div align="center">
+### Synapse
+**A modular foundation for decision-making systems.**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=novrhyp-jana&theme=github-compact&hide_border=true" width="95%" />
+An experimental options-trading prototype built around separate services for decisions, simulated execution, portfolio tracking, and scheduling. The focus is on making the system’s workflow understandable and its components independently extendable.
 
-</div>
+- **Current foundation:** A runnable demo connecting decision and portfolio workers, a scheduler, and a dashboard API.
+- **Engineering approach:** Modular Python services with Redis and PostgreSQL, supported by Docker.
+- **Research direction:** Local LLM reasoning, machine-learning models, and evaluation of decision outcomes.
+
+`Python` `Redis` `PostgreSQL` `Docker` `Service architecture`
+
+**Stage:** Experimental prototype. AI training and self-learning are future goals, not completed capabilities. The demo does not establish live-trading readiness or profitability.
+
+## 03 / Technical toolkit
+
+| Area | Technologies I’ve worked with |
+| :--- | :--- |
+| Languages | Java · Python · C · C++ · SQL |
+| Applications & backend | Android Studio · Spring Boot · JavaFX · REST APIs |
+| Data | MySQL · PostgreSQL · Firebase · Room · Redis |
+| Development environment | Git · Docker · Linux / WSL · VS Code |
+| Local AI tools | Ollama · Local LLM experimentation |
+
+**Currently learning:** Machine-learning foundations, neural networks, AI evaluation, and security engineering.
+
+## 04 / Current direction
+
+- Build modular systems whose behaviour I can explain, test, and improve.
+- Explore local-first AI workflows and the foundations behind language models.
+- Bring a security-conscious approach to application and backend development.
+- Document projects with clear architecture, reproducible setup, and honest limitations.
 
 ---
 
-# 📌 More Coming Soon
-
-This profile is being built alongside my projects.
-
-Upcoming repositories will include work across:
-
-`AI` · `Cybersecurity` · `Android` · `Java`
-
-`Machine Learning` · `Backend Systems` · `Experimental Software`
-
-Projects will be published here as they reach a stage where they're worth documenting and sharing.
-
----
-
 <div align="center">
 
-### Build things that make you ask better questions.
+### Thoughtful engineering. Meaningful impact.
 
-**AI × Security × Software Engineering**
-
-<br>
-
-![GitHub](https://img.shields.io/badge/GitHub-novrhyp--jana-181717?style=for-the-badge\&logo=github)
+<sub>Learning deeply · Building deliberately · Improving continuously</sub>
 
 <br><br>
 
-*"The interesting part isn't making the system work — it's understanding what makes it work."*
+[![GitHub](https://img.shields.io/badge/GITHUB-novrhyp--jana-39FF88?style=flat-square&logo=github&logoColor=white&labelColor=101C16)](https://github.com/novrhyp-jana)
 
 </div>
