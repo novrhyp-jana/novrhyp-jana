@@ -93,6 +93,8 @@ Moves between local and cloud AI providers without rebuilding the workspace arou
 
 #### 🌍 [GeoDiscover](https://github.com/novrhyp-jana/GeoDiscover)
 ![status](https://img.shields.io/badge/status-LIVE-97bc62?style=flat-square&labelColor=2b2f33)
+![Web](https://geo-discover.vercel.app/)
+
 
 A location-first discovery platform that connects digital communities with real-world exploration.
 
