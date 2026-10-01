@@ -1,13 +1,18 @@
-```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5f2d,100:97bc62&height=220&section=header&text=novrhyp-jana&fontSize=52&fontColor=e8f5e9&animation=fadeIn&fontAlignY=38&desc=growing%20neural%20networks%20like%20living%20things&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5f2d,100:97bc62&height=240&section=header&text=Janarthanan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=student%20%C2%B7%20developer%20%C2%B7%20builder&descSize=20&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=8BC34A&center=true&vCenter=true&width=650&lines=building+systems+that+learn+%26+adapt;quant+trading+%C2%B7+LLMs+from+scratch+%C2%B7+full-stack;every+system+is+a+small+ecosystem;local-first+%C2%B7+open+%C2%B7+built+to+be+understood" alt="Typing SVG" />
-
-</div>
+<a href="https://github.com/novrhyp-jana">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=97BC62&center=true&vCenter=true&width=700&lines=build-to-understand.+no+black+boxes.;quant+systems+%7C+language+models+%7C+AI+workspaces;local-first.+open-source.+self-hosted.;ship+something+real%2C+learn+the+internals" alt="typing intro"/>
+</a>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=novrhyp-jana&label=profile+views&color=2c5f2d&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/based%20in-India-97bc62?style=for-the-badge&labelColor=0f2027" alt="location"/>
+<img src="https://img.shields.io/badge/status-building-97bc62?style=for-the-badge&labelColor=0f2027" alt="status"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=97bc62&height=2&section=header" width="100%"/>
 
@@ -27,22 +32,18 @@ class Jana:
             yield "ship something real, learn the internals along the way"
 ```
 
-I build tools hands-on — quantitative systems, language models, AI workspaces,
-and full-stack platforms — from first principles because that's the only way
-I actually trust what I ship.
+I build tools hands-on: quantitative systems, language models, AI workspaces and full-stack platforms, from first principles, because that's the only way I actually trust what I ship.
 
 Some systems stay local and experimental. Others grow into deployed products.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🌱_ACTIVE_PROJECTS-5-1a3a2e?style=for-the-badge&labelColor=0d1f17"/>
-<img src="https://img.shields.io/badge/🚀_SHIPPED-1-1a3a2e?style=for-the-badge&labelColor=0d1f17"/>
-<img src="https://img.shields.io/badge/🧠_BUILT_FROM_SCRATCH-2-1a3a2e?style=for-the-badge&labelColor=0d1f17"/>
-<img src="https://img.shields.io/badge/⚡_BUILD_TO_UNDERSTAND-always-1a3a2e?style=for-the-badge&labelColor=0d1f17"/>
+<img src="https://img.shields.io/badge/ACTIVE%20PROJECTS-5-97bc62?style=flat-square&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/SHIPPED-1-97bc62?style=flat-square&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/BUILT%20FROM%20SCRATCH-2-97bc62?style=flat-square&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/BUILD%20TO%20UNDERSTAND-ALWAYS-97bc62?style=flat-square&labelColor=0f2027"/>
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=97bc62&height=2&section=header" width="100%"/>
 
@@ -53,84 +54,98 @@ Some systems stay local and experimental. Others grow into deployed products.
 <td width="50%" valign="top">
 
 #### 🔗 SYNAPSE
+![status](https://img.shields.io/badge/status-active-97bc62?style=flat-square&labelColor=2b2f33)
 
-<img src="https://img.shields.io/badge/status-active-97bc62?style=flat-square"/>
+Self-hosted quantitative trading intelligence platform: event-driven modular architecture, options analytics, Black-Scholes pricing, Greeks computation, market-data processing and AI-assisted trading intelligence.
 
-Self-hosted quantitative trading intelligence platform — event-driven modular
-architecture, options analytics, Black-Scholes pricing, Greeks computation,
-market-data processing and AI-assisted trading intelligence.
+Modular workers, a dark-terminal live dashboard and an LLM-assisted reasoning layer.
 
-Built around modular workers with a dark-terminal live dashboard and
-LLM-assisted reasoning layer.
-
-<br/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=postgresql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,redis,postgres&theme=dark" height="36"/> ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
-#### 🌌 tiny-gpt-llm
+#### 🧬 tiny-gpt-llm
+![status](https://img.shields.io/badge/status-active%20build-97bc62?style=flat-square&labelColor=2b2f33)
 
-<img src="https://img.shields.io/badge/status-active_build-97bc62?style=flat-square"/>
+A GPT-style causal language model built from scratch: tokenizer, embeddings, multi-head self-attention, transformer blocks, training loop and inference.
 
-A GPT-style causal language model built from scratch — tokenizer, embeddings,
-multi-head self-attention, transformer blocks, training loop and inference.
+Built to understand how LLMs actually work below the API layer, within a practical **6 GB VRAM** budget.
 
-Built to understand how LLMs actually work below the API layer while operating
-within a practical **6 GB VRAM** budget.
-
-<br/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/from--scratch-2c5f2d?style=flat-square"/>
-<img src="https://img.shields.io/badge/mixed_precision-2c5f2d?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="36"/> ![mixed precision](https://img.shields.io/badge/mixed%20precision-2c5f2d?style=flat-square)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-#### 🧬 XEB-G
+#### 🛰️ XEB-G
+![status](https://img.shields.io/badge/status-stable-97bc62?style=flat-square&labelColor=2b2f33)
 
-<img src="https://img.shields.io/badge/status-stable-8BC34A?style=flat-square"/>
+A personal AI workspace OS: persistent project context, multi-channel chat, AI-assisted planning and provider-agnostic inference.
 
-A personal AI workspace OS — persistent project context, multi-channel chat,
-AI-assisted planning and provider-agnostic inference.
+Moves between local and cloud AI providers without rebuilding the workspace around a single model ecosystem.
 
-Designed to move between local and cloud AI providers without rebuilding
-the workspace around a single model ecosystem.
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,fastapi,sqlite&theme=dark" height="36"/> ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 #### 🌍 [GeoDiscover](https://github.com/novrhyp-jana/GeoDiscover)
+![status](https://img.shields.io/badge/status-LIVE-97bc62?style=flat-square&labelColor=2b2f33)
 
-<a href="https://geo-discover.vercel.app/">
-<img src="https://img.shields.io/badge/status-LIVE-97bc62?style=flat-square"/>
-</a>
+A location-first discovery platform that connects digital communities with real-world exploration.
 
-A location-first discovery platform that connects digital communities with
-real-world exploration.
+Discover, document and share location-based finds through an interactive map-driven experience.
 
-Discover, document and share location-based finds through an interactive
-map-driven experience — turning local observations into useful,
-community-accessible information.
+<img src="https://skillicons.dev/icons?i=ts,react&theme=dark" height="36"/>
 
-<br/>
+</td>
+</tr>
+</table>
 
-<a href="https://geo-discover.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-OPEN_APP-
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=97bc62&height=2&section=header" width="100%"/>
+
+### 🛠️&nbsp; toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,fastapi,pytorch,redis,postgres,sqlite,docker,git,linux,vscode&theme=dark&perline=15"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=97bc62&height=2&section=header" width="100%"/>
+
+### 📈&nbsp; activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=novrhyp-jana&theme=dark&background=0D1117&ring=97BC62&fire=97BC62&currStreakLabel=97BC62&sideLabels=97BC62&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" alt="streak"/>
+
+<br/><br/>
+
+<!-- Snake animation: generated by the workflow in .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novrhyp-jana/novrhyp-jana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novrhyp-jana/novrhyp-jana/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/novrhyp-jana/novrhyp-jana/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=97bc62&height=2&section=header" width="100%"/>
+
+### 🤝&nbsp; connect
+
+<div align="center">
+
+<a href="mailto:janaworkmail6602@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=97bc62"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=97bc62"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=understand+every+layer+before+you+extend+it" alt="footer line"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:97bc62,50:2c5f2d,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
